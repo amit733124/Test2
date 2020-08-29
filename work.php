@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Under Maintanence Working</title>
+	<title>Under Maintanence</title>
 </head>
 <body>
 <center><h1>Page Under Working</h1><br>
